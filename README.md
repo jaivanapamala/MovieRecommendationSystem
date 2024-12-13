@@ -28,29 +28,13 @@ This is a comprehensive movie recommendation system that leverages both collabor
 ### Steps
 1. Clone the repository
 
-gh repo clone jaivanapamala/MovieRecommendationSystem
+  gh repo clone jaivanapamala/MovieRecommendationSystem
 
 
 2. Install required dependencies
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
-
-## Project Structure
-
-movie-recommendation-system/
-│
-├── data/
-│   ├── movies.csv
-│   └── ratings.csv
-│
-├── models/
-│   ├── recommendation_model.pkl
-│   └── movie_list.pkl
-│
-├── app.py                 # Streamlit application
-├── rec.py                 # Recommendation logic
-└── requirements.txt       # Project dependencies
 
 
 ## How It Works
@@ -90,6 +74,6 @@ Pickle files are used to:
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Your Name - jsjdob2002@gmail.com
+Name - JAI
 
 Project Link: https://github.com/jaivanapamala/MovieRecommendationSystem
