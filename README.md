@@ -26,15 +26,11 @@ This is a comprehensive movie recommendation system that leverages both collabor
 - pip package manager
 
 ### Steps
-1. Clone the repository
-
-  gh repo clone jaivanapamala/MovieRecommendationSystem
-
+1. Clone the repository:
+    - gh repo clone jaivanapamala/MovieRecommendationSystem
 
 2. Install required dependencies
-
-  pip install -r requirements.txt
-
+    - pip install -r requirements.txt
 
 
 ## How It Works
